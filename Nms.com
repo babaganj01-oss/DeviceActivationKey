@@ -13,7 +13,7 @@
     },
     {
         "device_id": "4a26c3960c49354f",
-        "key": "key123456",
+        "key": "key12345",
         "expirydate": "28-02-2026",
         "Allowoffline": false
     },
