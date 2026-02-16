@@ -76,4 +76,10 @@
         "expirydate": "13-03-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "5cb2ea0cf80977e8",
+        "key": "k10200",
+        "expirydate": "18-03-2026",
+        "Allowoffline": false
+    },
 ]
