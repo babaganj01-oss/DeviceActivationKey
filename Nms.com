@@ -88,4 +88,10 @@
         "expirydate": "22-03-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "6064919016822bf8",
+        "key": "B8VZT35FWLO8",
+        "expirydate": "30-03-2026",
+        "Allowoffline": false
+    },
 ]
