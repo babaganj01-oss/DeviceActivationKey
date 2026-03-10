@@ -28,5 +28,5 @@
         "key": "key12345",
         "expirydate": "27-03-2026",
         "Allowoffline": false
-    },
+    }
 ]
