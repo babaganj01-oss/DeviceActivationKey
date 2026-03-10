@@ -18,7 +18,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "4a26c3960c49354f",
+        "device_id": "4a26c3960c494f",
         "key": "ab123456",
         "expirydate": "02-04-2026",
         "Allowoffline": false
@@ -92,6 +92,12 @@
         "device_id": "6064919016822bf8",
         "key": "B8VZT35FWLO8",
         "expirydate": "30-03-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "4a26c3960c49354f",
+        "key": "ab123456",
+        "expirydate": "02-05-2026",
         "Allowoffline": false
     },
 ]
